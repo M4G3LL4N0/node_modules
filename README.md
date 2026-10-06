@@ -1,40 +1,37 @@
 # Node Modules
 
-> **STATUS: UNDOCUMENTED** — this README was generated from the repository's own contents. It records what is present, not what the project intends to become.
+**STATUS: EXPERIMENTAL**
 
-## Purpose
+node modules. 1 test file(s).
 
-No description has been recorded for this repository.
+## Why it exists
 
-## What is in this repository
+> No description has been recorded for this repository.
 
-Files present at the repository root:
+## What is in it
 
-- `.DS_Store`
-- `.package-lock.json`
-- `@supabase`
-- `@types`
-- `clsx`
-- `iceberg-js`
-- `tslib`
-- `undici-types`
-- `ws`
-
-## Engineering status
-
-| property | value |
+| | |
 | --- | --- |
-| Primary language | TypeScript |
-| License | not recorded |
-| Last push | 2026-04-07 |
-| Topics | none set |
-| Test suite | not established — no test evidence has been measured |
-| CI | not established — no CI evidence has been measured |
+| Source files | 267 |
+| Test files | 1 |
+| Documentation files | 22 |
+| CI workflows | 0 |
+| Build manifest | none |
 
-Nothing in this table is inferred. Where a value could not be read from the repository it says so.
+Observed: 267 source file(s); 1 test file(s).
 
-Homepage: <https://nodemodules-bice.vercel.app>
+## Testing
 
-## Notes
+1 test file(s) are present. This repository declares no build manifest at its root, so no test command can be stated.
 
-This repository predates the current documentation standard. The README above is intentionally minimal and factual rather than promotional: it would be easy to write an impressive description here, and nothing in this repository would make it true.
+## Build and run
+
+No build manifest at the repository root. Inspect the tree before assuming a build step.
+
+## Evidence
+
+Counts above are counted from the repository tree, not asserted. Where a value could not be measured it is omitted rather than estimated.
+
+---
+
+Part of the DUNG30N5 × NOAERTH portfolio. Repository: [`M4G3LL4N0/node_modules`](https://github.com/M4G3LL4N0/node_modules).
